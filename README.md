@@ -11,6 +11,8 @@ O projeto é um projeto WEB RESPONSIVO de uma capsula do tempo de meu perfil, fe
 - Git e Github
 
 ## Contato 📧
-👤 Linkedin: [https://www.linkedin.com/in/henriquemateusheck/]
-📧 Gmail: heckhenrique@gmail.com
-📞 Whats: 51 985775578
+- 👤 Linkedin: [https://www.linkedin.com/in/henriquemateusheck/]
+
+- 📧 Gmail: heckhenrique@gmail.com
+
+- 📞 Whats: 51 985775578
